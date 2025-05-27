@@ -533,12 +533,21 @@ img{
   max-width: 100%;
 }
 
-a{
+/* a{
   text-wrap: balance;
   overflow-wrap: break-word;
   --tw-text-opacity: 1;
   color: rgb(57 91 199 / var(--tw-text-opacity));
   text-decoration-line: none;
+} */
+
+a {
+    text-wrap: balance;
+    overflow-wrap: break-word;
+    --tw-text-opacity: 1;
+    /* color: rgb(57 91 199 / var(--tw-text-opacity)); */
+    color
+    text-decoration-line: none;
 }
 
 a:hover{
